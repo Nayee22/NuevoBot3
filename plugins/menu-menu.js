@@ -120,81 +120,78 @@ ${readMore}
 🎮 _${usedPrefix}wordfind_
 ┗━━━━━━━━━━━━━━━━┛
 
+*ACTIVAR O DESACTIVAR*
 ┏━━━━━━━━━━━━━━━━┓
-┃ *< 𝔸ℂ𝕋𝕀𝕍𝔸ℝ 𝕆 𝔻𝔼𝕊𝔸ℂ𝕋𝕀𝕍𝔸ℝ />*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *welcome*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *welcome*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *modohorny*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *modohorny*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *antilink*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *antilink*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *antilink2*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *antilink2*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *detect*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *detect*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *audios*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *audios*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *autosticker*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *autosticker*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *antiviewonce*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *antiviewonce*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *antitoxic*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *antitoxic*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *antitraba*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *antitraba*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *antiarabes*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *antiarabes*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *modoadmin*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *modoadmin*_
-┣ ඬ⃟ ☑️ _${usedPrefix}enable *antidelete*_
-┣ ඬ⃟ ☑️ _${usedPrefix}disable *antidelete*_
+🟢 _${usedPrefix}enable *welcome*_
+🔴 _${usedPrefix}disable *welcome*_
+🟢 _${usedPrefix}enable *modohorny*_
+🔴 _${usedPrefix}disable *modohorny*_
+🟢 _${usedPrefix}enable *antilink*_
+🔴 _${usedPrefix}disable *antilink*_
+🟢 _${usedPrefix}enable *antilink2*_
+🔴 _${usedPrefix}disable *antilink2*_
+🟢 _${usedPrefix}enable *detect*_
+🔴 _${usedPrefix}disable *detect*_
+🟢 _${usedPrefix}enable *audios*_
+🔴 _${usedPrefix}disable *audios*_
+🟢 _${usedPrefix}enable *autosticker*_
+🔴 _${usedPrefix}disable *autosticker*_
+🟢 _${usedPrefix}enable *antiviewonce*_
+🔴 _${usedPrefix}disable *antiviewonce*_
+🟢 _${usedPrefix}enable *antitoxic*_
+🔴 _${usedPrefix}disable *antitoxic*_
+🟢 _${usedPrefix}enable *antitraba*_
+🔴 _${usedPrefix}disable *antitraba*_
+🟢 _${usedPrefix}enable *antiarabes*_
+🔴 _${usedPrefix}disable *antiarabes*_
+🟢 _${usedPrefix}enable *modoadmin*_
+🔴 _${usedPrefix}disable *modoadmin*_
+🟢 _${usedPrefix}enable *antidelete*_
+🔴 _${usedPrefix}disable *antidelete*_
 ┗━━━━━━━━━━━━━━━━┛
 
+*REPORTAR ERRORES*
 ┏━━━━━━━━━━━━━━━━┓
-┣ *< ℝ𝔼ℙ𝕆ℝ𝕋𝔸ℝ 𝔼ℝℝ𝕆ℝ𝔼𝕊 />*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ ඬ⃟ 🔰 _${usedPrefix}reporte *<texto>*_
+🔰 _${usedPrefix}reporte *<texto>*_
 ┗━━━━━━━━━━━━━━━━┛
 
+*DESCARGAS*
 ┏━━━━━━━━━━━━━━━━┓
-┃ *< 𝔻𝔼𝕊ℂ𝔸ℝ𝔾𝔸𝕊 />*
-┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ ඬ⃟ 📥 _${usedPrefix}instagram *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}mediafire *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}gitclone *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}gdrive *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}tiktok *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}tiktokimg *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}xnxxdl *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}xvideosdl *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}twitter *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}fb *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}ytshort *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}ytmp3 *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}ytmp4 *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}ytmp3doc *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}ytmp4doc *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}videodoc *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}dapk2 *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}stickerpack *<enlace / link / url>*_
-┣ ඬ⃟ 📥 _${usedPrefix}play *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}play2 *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}play.1 *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}play.2 *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}playdoc *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}playdoc2 *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}playlist *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}spotify *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}ringtone *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}soundcloud *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}imagen *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}pinterest *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}wallpaper *<texto>*_
-┣ ඬ⃟ 📥 _${usedPrefix}pptiktok *<nombre de usuario>*_
-┣ ඬ⃟ 📥 _${usedPrefix}igstalk *<nombre de usuario>*_
-┣ ඬ⃟ 📥 _${usedPrefix}igstory *<nombre de usuario>*_
-┣ ඬ⃟ 📥 _${usedPrefix}tiktokstalk *<username>*_
+📥 _${usedPrefix}instagram *<enlace / link / url>*_
+📥 _${usedPrefix}mediafire *<enlace / link / url>*_
+📥 _${usedPrefix}gitclone *<enlace / link / url>*_
+📥 _${usedPrefix}gdrive *<enlace / link / url>*_
+📥 _${usedPrefix}tiktok *<enlace / link / url>*_
+📥 _${usedPrefix}tiktokimg *<enlace / link / url>*_
+📥 _${usedPrefix}xnxxdl *<enlace / link / url>*_
+📥 _${usedPrefix}xvideosdl *<enlace / link / url>*_
+📥 _${usedPrefix}twitter *<enlace / link / url>*_
+📥 _${usedPrefix}fb *<enlace / link / url>*_
+📥 _${usedPrefix}ytshort *<enlace / link / url>*_
+📥 _${usedPrefix}ytmp3 *<enlace / link / url>*_
+📥 _${usedPrefix}ytmp4 *<enlace / link / url>*_
+📥 _${usedPrefix}ytmp3doc *<enlace / link / url>*_
+📥 _${usedPrefix}ytmp4doc *<enlace / link / url>*_
+📥 _${usedPrefix}videodoc *<enlace / link / url>*_
+📥 _${usedPrefix}dapk2 *<enlace / link / url>*_
+📥 _${usedPrefix}stickerpack *<enlace / link / url>*_
+📥 _${usedPrefix}play *<texto>*_
+📥 _${usedPrefix}play2 *<texto>*_
+📥 _${usedPrefix}play.1 *<texto>*_
+📥 _${usedPrefix}play.2 *<texto>*_
+📥 _${usedPrefix}playdoc *<texto>*_
+📥 _${usedPrefix}playdoc2 *<texto>*_
+📥 _${usedPrefix}playlist *<texto>*_
+📥 _${usedPrefix}spotify *<texto>*_
+📥 _${usedPrefix}ringtone *<texto>*_
+📥 _${usedPrefix}soundcloud *<texto>*_
+📥 _${usedPrefix}imagen *<texto>*_
+📥 _${usedPrefix}pinterest *<texto>*_
+📥 _${usedPrefix}wallpaper *<texto>*_
+📥 _${usedPrefix}pptiktok *<nombre de usuario>*_
+📥 _${usedPrefix}igstalk *<nombre de usuario>*_
+📥 _${usedPrefix}igstory *<nombre de usuario>*_
+📥 _${usedPrefix}tiktokstalk *<username>*_
 ┗━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━━━━┓
